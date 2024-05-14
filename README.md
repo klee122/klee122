@@ -3,7 +3,7 @@
 - Moving on, I am studying Data Science at Durham Univsersity and particularly interested in to the field of NLP 🔠
 - 🌱 I’m currently learning different pretrained models 
 - 👩🏻‍💻 Pronouns: she/her
-- 🦦 Fun fact: My favourite food is HK-style "piggy" bun (and there's no pork in it)
+- 🥐 Fun fact: My favourite food is HK-style "piggy" bun (and there's no pork in it)
 
 <!---
 klee122/klee122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
